@@ -5,5 +5,6 @@ O  Se-Robô  é  um aplicativo  que  faz  parte  de  um  kit  de  robótica  de 
 
 Robô lista os comandos de programação dado pelo usuário e os envia, via rede sem ﬁo, para o  robô  em formato de  flags.  O Arduino deverá  receber  cada  ﬂag e  converter  no movimento  correspondente  do  robô.
 
-# Mais informações
+# Publicação
 https://www.researchgate.net/publication/309885939_Se-Robo_Aplicativo_para_Robotica_Educacional_de_Baixo_Custo
+
